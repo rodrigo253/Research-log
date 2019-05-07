@@ -14,7 +14,7 @@ This week was really different from any other english class.
 We were doing an analytic report on technology do students and professors from pierce college need help with the most.
 For example, Microsoft, Google, iOS, etc. 
 If you don't know, an analytical report is the type of business reporting that is used to make decisions. Analytical reports offer both information and analysis, but they also include recommendations. Offering recommendations is the biggest difference between informational and analytical reporting.
-I found this [Youtube Video][1]: https://www.youtube.com/watch?v=OSVEsZjGf30 really helpful on explaining analytical reports.
+I found this [Youtube Video](https://www.youtube.com/watch?v=OSVEsZjGf30) really helpful on explaining analytical reports.
 I really learned a lot this week. 
 Not just the analytical report, but also critical thinking.
 My group and I were trying to find the best way to ask questions for survey; what we were trying to make it was short and simple so the reader wouldn't have to take so much time on it and actually do it.
